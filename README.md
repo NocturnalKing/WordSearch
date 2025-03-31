@@ -9,4 +9,6 @@ Next run the command `./ws.o puzzle3.txt` where ws.o is the machine code and puz
 This repository contains 4 puzzle text files. Each file follows the structure of the first line with the size of the grid (the length of one side) and the grid itself with each row seperated by line and each letter seperated by a space. 
 You can use this structure to make your own puzzles to test out my program!
 
+The word for puzzle1 is Hello, puzzle2 is Banana, puzzle3 is Deter, puzzle4 is Dining. My program is **not** case sensitive and will find all occurences of the word in the puzzle.
+
 [Insert my logic of code here and pictures of my whiteboard logic]
