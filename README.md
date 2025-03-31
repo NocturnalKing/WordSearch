@@ -1,4 +1,7 @@
 # WordSearch
+
+__Project 1 for CSE 31 - Assembly Language__
+
 Recursive word search program written in C and exclusively in pointer notation.
 
 The file wordsearch.c contains the program which can run in any linux enviorment with GCC. I would reccomend WSL in Visual Studio Code for the best experience.
